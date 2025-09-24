@@ -1,0 +1,121 @@
+{
+  "video_path": "C:\\Users\\Akshat\\AppData\\Local\\Temp\\tmpzj8aknxv.mp4",
+  "user_query": "identify the main topics of the video and give a list of questions",
+  "summary": "Sure, here's a summary of the video:\n\n**Topic:** Artificial intelligence concepts: AI Agents vs. Agentic AI.\n\n**Overview:**\nThe presenter defines and differentiates \"AI Agents\" from \"Agentic AI.\" The presenter says that an AI agent is an independent system or tool that can handle one specific job autonomously, based on a predefined set of rules and goals. Agentic AI is not just one agent, but a design approach, where multiple AI agents collaborate together as a team to handle an entire workflow.\n\n**Key Points:**\n- An AI Agent is an independent system or tool.\n- It is designed to handle one specific job autonomously.\n- It has a predefined set of rules and goals.\n- Agentic AI is not just one agent.\n- Agentic AI is a design approach that handles the entire workflow.\n- In Agentic AI, multiple AI agents collaborate together like a team.",
+  "topics": [
+    "```json",
+    "{",
+    "}",
+    "```"
+  ],
+  "search_results": [
+    {
+      "topic": "```json",
+      "results": [
+        {
+          "title": "JSON Editor Online: edit JSON, format JSON, query JSON",
+          "url": "https://jsoneditoronline.org/",
+          "snippet": "JSON Editor Online is the original and most copied JSON Editor on the web. Use it to view, edit, format, repair, compare, query, transform, validate, and share your JSON data."
+        },
+        {
+          "title": "JSON Tutorial",
+          "url": "https://www.tutorialspoint.com/json/index.htm",
+          "snippet": "JSON or JavaScript Object Notation is a lightweight text-based open standard designed for human-readable data interchange. The JSON format was originally specified by Douglas …"
+        },
+        {
+          "title": "JSON Examples and Implementation Explained - w3resource",
+          "url": "https://www.w3resource.com/JSON/snippets/json-example-guide.php",
+          "snippet": "Jan 6, 2025 · JSON (JavaScript Object Notation) is a lightweight data-interchange format used extensively for transferring data between a server and a web application. It is easy to read and …"
+        },
+        {
+          "title": "JSON Tutorial - Learn JSON - W3Schools",
+          "url": "https://www.w3schools.in/json",
+          "snippet": "JSON stands for JavaScript Object Notation, and it's designed to store and transport data. JSON is designed to store and organize data similar to XML, but JSON is smaller, faster, and easier …"
+        },
+        {
+          "title": "JSON 是什么，在数据交换中有什么用？ - 知乎",
+          "url": "https://www.zhihu.com/question/20836506",
+          "snippet": "什么是JSON JSON： JavaScript Object Notation 【JavaScript 对象表示法】 JSON 是存储和交换文本信息的语法。类似 XML。 JSON采用完全独立于任何程序语言的文本格式，使JSON成为 …"
+        }
+      ]
+    },
+    {
+      "topic": "{",
+      "results": [
+        {
+          "title": "What is a Curly Bracket? - Computer Hope",
+          "url": "https://www.computerhope.com/jargon/c/curlybra.htm",
+          "snippet": null
+        },
+        {
+          "title": "Bracket - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bracket",
+          "snippet": "Jun 24, 2002 · Various forms of brackets are used in mathematics, with specific mathematical meanings, often for denoting specific mathematical functions and subformulas. Angle brackets …"
+        },
+        {
+          "title": "Braces | The Punctuation Guide",
+          "url": "https://www.thepunctuationguide.com/braces.html",
+          "snippet": "Braces { }, also known as curly brackets, are used in various programing languages, certain mathematical expressions, and some musical notation. They should never be used in place of …"
+        },
+        {
+          "title": "CURLY BRACKET | English meaning - Cambridge Dictionary",
+          "url": "https://dictionary.cambridge.org/dictionary/english/curly-bracket",
+          "snippet": "A curly bracket is a symbol { or } that is used to group or separate information in some way. Learn how to use curly brackets in math, programming, and other contexts with examples and …"
+        },
+        {
+          "title": "curly bracket - Wiktionary, the free dictionary",
+          "url": "https://en.wiktionary.org/wiki/curly_bracket",
+          "snippet": "Jun 11, 2025 · Learn the definition, pronunciation, synonyms and usage of curly bracket, a symbol used in math, music, programming and chemistry. Find out the difference between curly …"
+        }
+      ]
+    },
+    {
+      "topic": "}",
+      "results": [
+        {
+          "title": "What is a Curly Bracket? - Computer Hope",
+          "url": "https://www.computerhope.com/jargon/c/curlybra.htm",
+          "snippet": null
+        },
+        {
+          "title": "Braces | The Punctuation Guide",
+          "url": "https://www.thepunctuationguide.com/braces.html",
+          "snippet": "Braces { }, also known as curly brackets, are used in various programing languages, certain mathematical expressions, and some musical notation. They should never be used in place of …"
+        },
+        {
+          "title": "CURLY BRACKET | English meaning - Cambridge Dictionary",
+          "url": "https://dictionary.cambridge.org/dictionary/english/curly-bracket",
+          "snippet": "A curly bracket is a symbol { or } that is used to group or separate information. Learn how to use it in math, programming, and other contexts with examples and synonyms."
+        },
+        {
+          "title": "curly bracket - Wiktionary, the free dictionary",
+          "url": "https://en.wiktionary.org/wiki/curly_bracket",
+          "snippet": "Jun 11, 2025 · Noun [edit] curly bracket (plural curly brackets) Either { or }, having various uses in math, music, computer programming and chemistry."
+        },
+        {
+          "title": "Curly Braces { } - English Professor",
+          "url": "https://english.prof/punctuation-guide/curly-braces/",
+          "snippet": "In many programming languages, curly braces are used to group code together. They define blocks of code that should be executed as a single unit, like functions, loops, or conditional …"
+        }
+      ]
+    },
+    {
+      "topic": "```",
+      "results": []
+    }
+  ],
+  "questions": [
+    "```json",
+    "[",
+    "\"How does JSON's lightweight nature compared to XML impact data transmission speeds in practical applications?\",",
+    "\"In what specific scenarios would XML be preferred over JSON, given JSON's advantages in speed and size?\",",
+    "\"Beyond data storage and transport, what are some emerging applications of JSON in modern software development?\",",
+    "\"Considering the use of curly brackets in various fields (math, music, programming, chemistry), what are some common misconceptions about their purpose?\",",
+    "\"How do different programming languages utilize curly braces to define code blocks, and what are the key distinctions?\",",
+    "\"What are some common errors or pitfalls developers face when working with JSON data structures and curly brackets in code?\",",
+    "\"How have the uses of curly brackets in programming evolved since the inception of languages like C?\",",
+    "\"Are there security vulnerabilities that arise from the use of JSON or curly braces, and how can developers mitigate these risks?\",",
+    "\"In what ways can developers ensure JSON documents are valid and well-formed, and what tools are available for this purpose?\",",
+    "\"How can one efficiently handle nested JSON structures using curly brackets and other JSON syntax?\","
+  ]
+}

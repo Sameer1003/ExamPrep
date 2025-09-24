@@ -1,0 +1,48 @@
+{
+  "video_path": "C:\\Users\\Akshat\\AppData\\Local\\Temp\\tmpoew41at2.mp4",
+  "user_query": null,
+  "summary": "Sure, here is a summary of the video:\n\n**Overview**\nThe video explains the differences between an AI agent and agentic AI, as well as the differences in terms of their functions.\n\n**Key Points**\n- The presenter defines AI agent as an independent system or tool that can handle only one specific job autonomously and it has a predefined set of rules and goals. \n- Examples of an AI agent include an AI chatbot or an AI agent which can help to write a resume.\n- On the other hand, agentic AI is not just one agent. It is a design approach which handles the entire workflow.\n- Agentic AI is considered as a team working together to get you hired, using research agents, custom resume creation, and interview preparation. \n- Bottom line, AI agents prefer to work alone. On the other hand, agentic AI prefers to collaborate as a team.",
+  "topics": [
+    "*   AI Agent Definition",
+    "*   AI Agent Examples",
+    "*   Agentic AI Definition",
+    "*   Agentic AI as a Team",
+    "*   AI Agent vs Agentic AI Collaboration"
+  ],
+  "search_results": [
+    {
+      "topic": "*   AI Agent Definition",
+      "results": []
+    },
+    {
+      "topic": "*   AI Agent Examples",
+      "results": []
+    },
+    {
+      "topic": "*   Agentic AI Definition",
+      "results": []
+    },
+    {
+      "topic": "*   Agentic AI as a Team",
+      "results": []
+    },
+    {
+      "topic": "*   AI Agent vs Agentic AI Collaboration",
+      "results": []
+    }
+  ],
+  "questions": [
+    "```json",
+    "[",
+    "\"How does the performance of an agentic AI team compare to that of a single, highly capable AI agent in complex problem-solving scenarios?\",",
+    "\"In what ways can the collaborative dynamics between AI agents and agentic AI systems be optimized to leverage the strengths of both approaches?\",",
+    "\"What are the key architectural differences that distinguish a single AI agent from an agentic AI system composed of multiple agents?\",",
+    "\"What mechanisms can be implemented to ensure effective communication and coordination within an agentic AI team, especially when dealing with conflicting goals or information?\",",
+    "\"How can agentic AI systems be designed to effectively handle uncertainty and adapt to changing environments, considering the potential for emergent behavior?\",",
+    "\"What are the ethical implications of deploying autonomous agentic AI teams, and how can these systems be aligned with human values and societal norms?\",",
+    "\"How might the development of agentic AI impact the future of work, particularly in fields that require collaboration and complex decision-making?\",",
+    "\"What are the potential security vulnerabilities associated with agentic AI systems, and what measures can be taken to mitigate these risks?\",",
+    "\"How can we measure the 'agency' of an AI system, and what metrics are most relevant for evaluating the performance of agentic AI teams?\",",
+    "\"What are some real-world applications where agentic AI is likely to provide a significant advantage over traditional AI systems or single AI agents?\","
+  ]
+}

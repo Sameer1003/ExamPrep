@@ -1,0 +1,178 @@
+{
+  "video_path": "C:\\Users\\Akshat\\AppData\\Local\\Temp\\tmp57efktht.mp4",
+  "user_query": null,
+  "summary": "Okay, here is a summary of the video:\n\n# Summary of AI Agents vs Agentic AI: \n\nHere is a summary of the difference between an AI Agent and an Agentic AI. \n\n## AI Agent\n- An AI agent is an independent system or tool.\n- It is programmed with a pre-defined set of rules and goals.\n- It handles only one specific job autonomically.\n- For example, it could write your resume. \n\n## Agentic AI\n\n- Agentic AI is not just one agent.\n- Multiple AI agents will collaborate like a team, debating and refining each other to give a collective output.\n- As an example, multiple AI agents can work together to get a person hired.\n- One agent analyzes the market and researches, a second agent writes custom resumes, and a third agent helps you prepare for interviews.\n- Bottom line, Agentic AI is a design approach for handling an entire workflow.",
+  "topics": [
+    "*   AI Agent",
+    "*   Agentic AI",
+    "*   Collaboration of AI Agents",
+    "*   Workflow Automation",
+    "*   Pre-defined rules and goals"
+  ],
+  "search_results": [
+    {
+      "topic": "*   AI Agent",
+      "results": [
+        {
+          "title": "Agents in AI - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/artificial-intelligence/agents-artificial-intelligence/",
+          "snippet": "Aug 14, 2025 · An artificial intelligence (AI) agent is a software program that can interact with its environment, collect data and use that data to perform self-directed tasks that meet …"
+        },
+        {
+          "title": "What are AI agents? Definition, examples, and types | Google Cloud",
+          "url": "https://cloud.google.com/discover/what-are-ai-agents",
+          "snippet": "AI agents are software systems that use AI to pursue goals and complete tasks on behalf of users. They show reasoning, planning, and memory and have a level of autonomy to make decisions, …"
+        },
+        {
+          "title": "What is an AI Agent? Types, Frameworks, and Components",
+          "url": "https://intellipaat.com/blog/ai-agent/",
+          "snippet": "Aug 13, 2025 · What is an AI Agent? An AI agent is an autonomous system that can perceive its environment, make decisions, and take actions to achieve a specific goal. Unlike regular AI that …"
+        },
+        {
+          "title": "13 Types of AI Agents Explained (+ Examples & Use Cases)",
+          "url": "https://www.lindy.ai/blog/types-ai-agents",
+          "snippet": "Jun 16, 2025 · You’ll find different types of AI agents built for different tasks. For example, conversational agents reply to texts and chats, planning agents can book meetings, and …"
+        },
+        {
+          "title": "AI Agents: What They Are & How They Work (2025 Guide)",
+          "url": "https://www.nocodefinder.com/blog-posts/what-are-ai-agents",
+          "snippet": "Aug 19, 2025 · Discover what AI agents are, how they function, and real-world examples. Learn the difference between AI agents and chatbots in this comprehensive 2025 guide."
+        }
+      ]
+    },
+    {
+      "topic": "*   Agentic AI",
+      "results": [
+        {
+          "title": "What is Agentic AI - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/artificial-intelligence/what-is-agentic-ai/",
+          "snippet": "Aug 14, 2025 · Agentic AI is a type of AI designed to excel in one specific area rather than trying to know a bit about everything. Unlike General AI, which has knowledge across many domains but …"
+        },
+        {
+          "title": "What is agentic AI? - IBM",
+          "url": "https://www.ibm.com/think/topics/agentic-ai",
+          "snippet": "Agentic AI is an artificial intelligence system that can accomplish a specific goal with limited supervision. It consists of AI agents—machine learning models that mimic human decision …"
+        },
+        {
+          "title": "Agentic",
+          "url": "https://www.agentic.ai/",
+          "snippet": "agentic.aihome careers ux engineer software engineer ai engineer sign up"
+        },
+        {
+          "title": "privacy | Agentic",
+          "url": "https://www.agentic.ai/privacy",
+          "snippet": "Copyright © 2022 by Agentic.AI Corporation. All rights reserved. Copyright © 2023 by Agentic.AI Corporation. All rights reserved.  home careers ux …"
+        },
+        {
+          "title": "Agentic",
+          "url": "https://www.agentic.ai/careers/research-scientist-inactive",
+          "snippet": "Agentic ... Agentic"
+        }
+      ]
+    },
+    {
+      "topic": "*   Collaboration of AI Agents",
+      "results": [
+        {
+          "title": "Collaborative AI agents for learning - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/artificial-intelligence/collaborative-ai-agents-for-learning/",
+          "snippet": "Jul 31, 2025 · Collaborative agents mimic a team of specialists, combining natural language processing (NLP), data mining, reasoning and adaptive learning to tackle different aspects of a …"
+        },
+        {
+          "title": "What is multi-agent collaboration? - IBM",
+          "url": "https://www.ibm.com/think/topics/multi-agent-collaboration",
+          "snippet": "Dec 5, 2024 · Cooperation among multiple agents is an important requirement when designing and deploying an intelligent system, especially in environments that are highly complex, distributed …"
+        },
+        {
+          "title": "Multi-Agent Collaboration: How AI Agents Work Together",
+          "url": "https://simplified.com/blog/automation/multi-ai-agent-collaboration",
+          "snippet": "Aug 4, 2025 · Multi-agent collaboration is when several independent AI agents operate within the same environment, exchanging data, dividing tasks, and making joint decisions. These agents …"
+        },
+        {
+          "title": "The Multi-Agent AI Revolution: Collaboration & Innovation",
+          "url": "https://www.nitorinfotech.com/blog/multi-agent-collaboration-how-ai-agents-work-together/",
+          "snippet": "1 day ago · The future of artificial intelligence agencies and multi-agent collaboration lies in AI agents working together, reshaping not just software development workflows but entire …"
+        },
+        {
+          "title": "Mechanisms For Collaboration In Ai Agentic Multi-Agent …",
+          "url": "https://ijcrt.org/papers/IJCRT25A5337.pdf",
+          "snippet": "Abstract: Multi-agent systems (MAS) powered by agentic AI represent a leap forward in solving complex, real-world problems through collaborative intelligence. Unlike single-agent systems, …"
+        }
+      ]
+    },
+    {
+      "topic": "*   Workflow Automation",
+      "results": [
+        {
+          "title": "Workflow automation: Definition, tutorial, and tools - Zapier",
+          "url": "https://zapier.com/blog/workflow-automation/?msockid=00212628a6816aca25c9307ca7d96b51",
+          "snippet": null
+        },
+        {
+          "title": "What is Workflow Automation? [+ Benefits & How to Start] | Atlassian",
+          "url": "https://www.atlassian.com/agile/project-management/workflow-automation",
+          "snippet": "Workflow automation is the approach to automating various business processes, tasks, and workflows with minimal human intervention. Workflow automation leverages software to create a …"
+        },
+        {
+          "title": "What are workflow automation tools? - microsoft.com",
+          "url": "https://www.microsoft.com/en-in/power-platform/products/power-automate/topics/workflow-automation/workflow-automation-software-and-tools?msockid=00212628a6816aca25c9307ca7d96b51",
+          "snippet": "Workflow automation software streamlines traditionally manual and tedious tasks to help businesses save time, reduce the risk of human error, and boost workplace productivity."
+        },
+        {
+          "title": "What is Workflow Automation and Why is it Important?",
+          "url": "https://www.techtarget.com/searchcontentmanagement/definition/workflow-automation",
+          "snippet": "Sep 27, 2023 · Workflow automation is an approach to making the flow of tasks, documents and information across work-related activities perform independently in accordance with defined …"
+        },
+        {
+          "title": "What is Workflow Automation? | Definition - Benefits - Examples - Zoho",
+          "url": "https://www.zoho.com/flow/what-is-workflow-automation.html",
+          "snippet": "Workflow automation is the process of automating repetitive tasks within an organization. It is done by identifying the tasks that form workflows, integrating the software applications with which …"
+        }
+      ]
+    },
+    {
+      "topic": "*   Pre-defined rules and goals",
+      "results": [
+        {
+          "title": "Goal-based AI Agents - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/artificial-intelligence/goal-based-ai-agents/",
+          "snippet": "Jul 29, 2024 · These agents are designed to plan, execute, and adjust their actions dynamically to meet predefined goals. This approach is particularly useful in complex environments where …"
+        },
+        {
+          "title": "Goal-Driven ECA Rules: A Comprehensive Analysis and Implications",
+          "url": "https://www.ijeijournal.com/papers/Vol12-Issue10/1210227234.pdf",
+          "snippet": "The core of the paper lies in a comprehensive examination of goal-driven ECA rules, offering a conceptual framework that redefines event handling, condition evaluation, and action execution …"
+        },
+        {
+          "title": "Predefined Rule - an overview | ScienceDirect Topics",
+          "url": "https://www.sciencedirect.com/topics/computer-science/predefined-rule",
+          "snippet": "A 'Predefined Rule' refers to a control-based method that encodes human experience and knowledge into If-Then rules to guide actions in different situations, typically based on local …"
+        },
+        {
+          "title": "What are predefined rules? - Explanation & Examples | Secoda",
+          "url": "https://www.secoda.co/glossary/what-are-predefined-rules",
+          "snippet": "Sep 16, 2024 · What are predefined rules in rule-based systems? Predefined rules, or logical statements, are used by rule-based systems to process and interpret information. These systems …"
+        },
+        {
+          "title": "Predefined Rules - Informatica",
+          "url": "https://docs.informatica.com/data-quality-and-governance/data-quality/10-5/data-discovery-guide/part-2--data-discovery-with-informatica-analyst/rules-in-informatica-analyst/predefined-rules.html",
+          "snippet": "You can use predefined rules with multiple profiles. In the Model repository, a predefined rule is a mapplet with an input group, an output group, and transformations that define the rule logic."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    "```json",
+    "[",
+    "\"How do the different types of AI agents (conversational, planning, etc.) leverage pre-defined rules and goals in their operation?\",",
+    "\"What are the key distinctions between AI agents and chatbots, particularly in the context of workflow automation?\",",
+    "\"In what ways does collaboration between AI agents enhance or complicate the enforcement of pre-defined rules and achievement of goals?\",",
+    "\"How does the integration of AI agents into workflow automation impact the need for and complexity of pre-defined rules?\",",
+    "\"What mechanisms facilitate effective collaboration among AI agents in multi-agent systems, and how do these mechanisms ensure adherence to pre-defined rules?\",",
+    "\"What are the potential limitations or drawbacks of relying heavily on pre-defined rules and goals in the development and deployment of AI agents?\",",
+    "\"How can organizations effectively balance the flexibility and adaptability of AI agents with the need for structured workflows and pre-defined parameters?\",",
+    "\"What are some emerging applications of collaborative AI agents in areas beyond software development, and how are pre-defined rules adapted in these contexts?\",",
+    "\"How does the use of predefined rules in AI agent systems compare to other approaches, such as machine learning, in terms of adaptability and maintainability?\",",
+    "\"In the context of agentic AI, how are concerns about privacy being addressed, and what role do pre-defined rules play in ensuring data security?\","
+  ]
+}

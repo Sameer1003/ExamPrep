@@ -1,0 +1,886 @@
+
+=== SUMMARY @ 2025-08-26T16:06:44.043882 ===
+Sure, here is a summary of the video:
+
+**Topic**
+The video discusses the differences between AI Agents and Agentic AI.
+
+**AI Agents**
+- An AI Agent is an independent system or tool.
+- It can handle only one specific job autonomously.
+- It has a predefined set of rules and goals.
+- One example of an AI agent is a resume writer, which only requires the input of skills.
+
+**Agentic AI**
+- Agentic AI is not just one agent, but a design approach that handles the entire workflow.
+- When multiple AI agents collaborate together, like a team, that becomes an Agentic AI.
+- AI Agents will debate, refine, and iterate on the tasks.
+- Agentic AI can be considered as a team working to get the user hired.
+- The first agent is a research agent, which will provide market analysis.
+- The second agent will write the custom resume based on the job descriptions.
+- The third agent will help the user prepare for interviews.
+
+**Bottom Line**
+- AI agents operate independently, handling tasks on their own.
+- Agentic AI assembles teams of AI agents to collaboratively tackle complex problems.
+
+=== TOPICS @ 2025-08-26T16:06:48.642122 ===
+[
+  "```json",
+  "{",
+  "\"topics\": [",
+  "\"AI Agents\",",
+  "\"Agentic AI\",",
+  "\"Independent Systems\",",
+  "\"Collaborative AI\",",
+  "\"Workflow Automation\","
+]
+
+=== SEARCH_RESULTS @ 2025-08-26T16:06:59.108328 ===
+[
+  {
+    "topic": "```json",
+    "results": [
+      {
+        "title": "JSON 是什么，在数据交换中有什么用？ - 知乎",
+        "url": "https://www.zhihu.com/question/20836506",
+        "snippet": "什么是JSON JSON： JavaScript Object Notation 【JavaScript 对象表示法】 JSON 是存储和交换文本信息的语法。类似 XML。 JSON采用完全独立于任何程序语言的文本格式，使JSON成为理想的数据 …"
+      },
+      {
+        "title": "输出格式（json,markdown）对大模型输出质量有影响吗？ - 知乎",
+        "url": "https://www.zhihu.com/question/9776273131",
+        "snippet": "01 简要说明 JSON 虽然是多数人的首选，但它对 tokens 的消耗极大。处理相同数据时，它可能需要其他格式两倍的 tokens。 需要注意的是，没有一种格式能在所有情况下都表现最佳，以下是一个决策指 …"
+      },
+      {
+        "title": "json - Qual é a diferença entre chaves \" { }\" e colchetes ...",
+        "url": "https://pt.stackoverflow.com/questions/173916/qual-é-a-diferença-entre-chaves-e-colchetes",
+        "snippet": "Dec 28, 2016 · O formato de arquivo JSON usa dois tipos de símbolos para organizar os dados em sua estrutura, eles são: Colchetes: [ ] Chaves: { } Neles é possível inserir valores de diversos …"
+      },
+      {
+        "title": "如何让大语言模型输出JSON格式？ - 知乎",
+        "url": "https://www.zhihu.com/tardis/bd/ans/3509888199",
+        "snippet": "这里面包含了两部分，第一部分是 提示词，要生成Json格式，并且确定了一共有三个数据以及相对应的数据类型。第二部分直接给出 示例，其中示例中的数据属性都跟提示词对应，字符串就双引号“”， …"
+      },
+      {
+        "title": "修改完JavaScript工程的package.json,lock.json要一起提交到git吗？",
+        "url": "https://www.zhihu.com/question/549113285?write",
+        "snippet": "Aug 19, 2022 · 通常情况下，当你修改了 package.json 文件后，也应该同时提交相应的 package-lock.json 或者 yarn.lock 文件到 Git 仓库。 这是因为 package-lock.json 是由 npm 自动生成的一个锁 …"
+      }
+    ]
+  },
+  {
+    "topic": "{",
+    "results": []
+  },
+  {
+    "topic": "\"topics\": [",
+    "results": [
+      {
+        "title": "501 Different Topics for Essays and Speeches - ThoughtCo",
+        "url": "https://www.thoughtco.com/different-writing-topics-1692446",
+        "snippet": "May 1, 2025 · Coming up with a good writing topic can be one of the hardest parts of composing an essay. These ideas for different topics can make that job easier."
+      },
+      {
+        "title": "50 Compelling Argumentative Essay Topics - ThoughtCo",
+        "url": "https://www.thoughtco.com/argument-essay-topics-1856987",
+        "snippet": "May 2, 2024 · List of 50 Possible Argumentative Essay Topics A number of these topics are rather controversial—that's the point. In an argumentative essay, opinions matter, and controversy is …"
+      },
+      {
+        "title": "150 Best Problem Solution Essay Topics for Impactful Writing",
+        "url": "https://essaypro.com/blog/problem-solution-essay-topics",
+        "snippet": "Jan 14, 2025 · Discover a variety of engaging problem and solution essay topics to spark your creativity! Write an excellent problem-solution essay to impress your teacher!"
+      },
+      {
+        "title": "90+ Statistics Project Ideas 2025: Fun & Unique Topics to Try",
+        "url": "https://essaypro.com/blog/statistics-project-ideas",
+        "snippet": "Feb 12, 2025 · Looking for statistics project ideas for college students? Here are 90+ fresh and exciting topics for 2025, from easy surveys to advanced data analysis."
+      },
+      {
+        "title": "10 Important Lab Safety Rules - ThoughtCo",
+        "url": "https://www.thoughtco.com/important-lab-safety-rules-608156",
+        "snippet": "May 18, 2024 · Learn the 10 most important lab safety rules to protect yourself, the lab, and your research, including the cardinal rule for all scientists."
+      }
+    ]
+  },
+  {
+    "topic": "\"AI Agents\",",
+    "results": [
+      {
+        "title": "2025年笔记本电脑CPU天梯图（8月） - 知乎",
+        "url": "https://www.zhihu.com/tardis/zm/art/376305519",
+        "snippet": "Aug 15, 2025 · 2025年笔记本电脑CPU天梯图，笔记本电脑CPU排行，是按照CPU的跑分进行排序，进行综合性能对比。可以一定程度上反应CPU的性能优劣，方便进行笔记本电脑CPU对比。 2025年笔 …"
+      },
+      {
+        "title": "Agent 到底是什么？和 ChatGPT 有什么不同？ - 知乎",
+        "url": "https://www.zhihu.com/question/8248918506",
+        "snippet": "最近这段时间 AI agents 很火，但是估计很多人对agents是什么都不是太理解。 这篇文章我们简单介绍一下HuggingFace官方发布的一个库 smolagents，这是一个非常简单的库，它为大语言模型解锁 …"
+      },
+      {
+        "title": "如何学习ai agent？ - 知乎",
+        "url": "https://www.zhihu.com/question/639349924",
+        "snippet": "如果你对大语言模型感兴趣，想进一步了解AI Agent和大语言模型的基础、利用AI工具跟紧时代前沿，提升个人生产力和个人收入，推荐体验这门知乎知学堂推出的2节免费的「AI大模型公开课」。"
+      },
+      {
+        "title": "有没有质量高一点的ai agent开发课程？ - 知乎",
+        "url": "https://www.zhihu.com/question/1893668410774254363",
+        "snippet": "微软的 \"AI Agents for Beginners\" 课程为想要进入 AI Agents 领域的开发者提供了一个系统、全面的学习路径。 通过这 10 节精心设计的课程，学习者能够从零开始，逐步掌握构建高效、可靠的 AI …"
+      },
+      {
+        "title": "各种AI agents层出不穷，哪一个是最好的呢？ - 知乎",
+        "url": "https://www.zhihu.com/question/627294143",
+        "snippet": "7月16日晚上举办的亚马逊云科技纽约峰会上，针对Agentic AI的核心议题，亚马逊云科技率先交出了答卷——发布了一系列全新的能力与工具，帮助客户大规模、安全部署和运行高性能AI Agents。"
+      }
+    ]
+  },
+  {
+    "topic": "\"Agentic AI\",",
+    "results": [
+      {
+        "title": "Agentic",
+        "url": "https://www.agentic.ai/",
+        "snippet": "agentic.aihome careers ux engineer software engineer ai engineer sign up"
+      },
+      {
+        "title": "privacy | Agentic",
+        "url": "https://www.agentic.ai/privacy",
+        "snippet": "Copyright © 2022 by Agentic.AI Corporation. All rights reserved. Copyright © 2023 by Agentic.AI Corporation. All rights reserved.  home careers ux …"
+      },
+      {
+        "title": "Agentic",
+        "url": "https://www.agentic.ai/careers/research-scientist-inactive",
+        "snippet": "Agentic ... Agentic"
+      },
+      {
+        "title": "Agentic AI: Autonomous Intelligence for Complex Goals—A …",
+        "url": "https://ieeexplore.ieee.org/document/10849561",
+        "snippet": "Agentic AI, an emerging paradigm in artificial intelligence, refers to autonomous systems designed to pursue complex goals with minimal human intervention. Unlike traditional AI, which depends …"
+      },
+      {
+        "title": "Agentic AI: 4 reasons why it’s the next big thing in AI research - IBM",
+        "url": "https://www.ibm.com/think/insights/agentic-ai",
+        "snippet": "For the last few years generative AI or gen AI, has been the hot new thing among technologists, but a new term has crept into artificial intelligence (AI) development communities recently. “Agentic” …"
+      }
+    ]
+  },
+  {
+    "topic": "\"Independent Systems\",",
+    "results": [
+      {
+        "title": "independent of和independent from的区别？_百度知道",
+        "url": "https://zhidao.baidu.com/question/187652402262412004.html",
+        "snippet": "Mar 27, 2024 · independent of 是较为常用的，而 independent from 是较为少用的，主要原因来自于 independent 这个“形容词”和两个介词 of 和 from 之间的关联。"
+      },
+      {
+        "title": "independent和independence区别 - 百度知道",
+        "url": "https://zhidao.baidu.com/question/757854128813842092.html",
+        "snippet": "Dec 3, 2024 · independent和independence区别独立这个词在英语中有独立名词和形容词两种词性。 作为名词时，它可以指个人或实体的自主状态或政治上的自治，通常用来描述一个国家或地区的独立。"
+      },
+      {
+        "title": "请问frontiers系列再independent review 阶段看得到审稿意见吗？",
+        "url": "https://www.zhihu.com/question/492878671",
+        "snippet": "请问frontiers系列再independent review 阶段看得到审稿意见吗？ 我的review is ongoing消失了，出现了Your manuscript has been submitted successfully a… 显示全部 关注者 35"
+      },
+      {
+        "title": "请问Independent Review和Interactive Review的区别是什么呀?",
+        "url": "https://www.zhihu.com/question/498451899",
+        "snippet": "Independent Review 指投稿后，编辑会把文章送给至少2位审稿人进行同行评审，审稿人之间信息不互通，独立审稿；评审意见返回后，作者开始写回复意见，这时候作者与审稿人都可以看到审稿意见和 …"
+      },
+      {
+        "title": "independent是什么意思？_百度知道",
+        "url": "https://zhidao.baidu.com/question/1935865021736358387.html",
+        "snippet": "当家的HYS 高粉答主 2023-10-26 · 醉心答题，欢迎关注 知道顶级答主 回答量： 3.5万 采纳率： 0% 帮助的人： 2亿 我也去答题 访问个人页 关注 展开全部 independent [英] [ˌɪndɪˈpendənt] [美] …"
+      }
+    ]
+  },
+  {
+    "topic": "\"Collaborative AI\",",
+    "results": [
+      {
+        "title": "cooperative 和 collaborative的区别？ - 知乎",
+        "url": "https://www.zhihu.com/question/24216541",
+        "snippet": "Cooperative和Collaborative都有“合作”的意思，但在不同的语境下，有着不同的用法和含义。 「Cooperative」 通常用于描述人们在共同完成某项任务时的态度和行为，指的是 人们在合作过程中 …"
+      },
+      {
+        "title": "sci投稿Declaration of interest怎么写? - 知乎",
+        "url": "https://www.zhihu.com/question/497551602",
+        "snippet": "COI/Declaration of Interest forms from all the authors of an article is required for every submiss…"
+      },
+      {
+        "title": "coordination, cooperation, collaboration三个单词有什么区别？ - 知乎",
+        "url": "https://www.zhihu.com/question/23831539/answers/updated",
+        "snippet": "You coordinate to bring order and organization. Both working with others, you cooperate because you have to; you collaborate because you want to. (It can be far more productive and successful …"
+      },
+      {
+        "title": "ctf加载程序是什么？ - 知乎",
+        "url": "https://www.zhihu.com/question/420074676",
+        "snippet": "CTF代表\"Collaborative Translation Framework\"（协作翻译框架），它是Windows操作系统中用于处理多语言输入和语言栏的组件。 CTF Loader负责加载和管理各种输入法组件，并提供输入法切换、文 …"
+      },
+      {
+        "title": "word里面的英文一个单词的字母与字母之间空格很大怎么解决?",
+        "url": "https://www.zhihu.com/question/343748803",
+        "snippet": "同时按下“Shift+空格键”即可解决。 实操有效。 此方法来自于CSDN ID： Mr-Cat伍可猫 的这篇文章： word打出来的字体总是变宋体_左边一行输入都是宋体-CSDN博客 我遇到的问题也和这个博主一 …"
+      }
+    ]
+  },
+  {
+    "topic": "\"Workflow Automation\",",
+    "results": [
+      {
+        "title": "What are workflow automation tools? - microsoft.com",
+        "url": "https://www.microsoft.com/en-in/power-platform/products/power-automate/topics/workflow-automation/workflow-automation-software-and-tools?msockid=2b2d53a8922a6ef01ed145fc932c6fe0",
+        "snippet": "Workflow automation software streamlines traditionally manual and tedious tasks to help businesses save time, reduce the risk of human error, and boost workplace productivity."
+      },
+      {
+        "title": "Workflow automation: Definition, tutorial, and tools - Zapier",
+        "url": "https://zapier.com/blog/workflow-automation/?msockid=2b2d53a8922a6ef01ed145fc932c6fe0",
+        "snippet": "Aug 14, 2025 · Workflow automation is the act of streamlining and automating a series of tasks within the apps you use. As the most connected AI orchestration platform, Zapier lets you …"
+      },
+      {
+        "title": "What is Workflow Automation and Why is it Important?",
+        "url": "https://www.techtarget.com/searchcontentmanagement/definition/workflow-automation",
+        "snippet": "Sep 27, 2023 · Workflow automation is an approach to making the flow of tasks, documents and information across work-related activities perform independently in accordance with defined …"
+      },
+      {
+        "title": "What is Workflow Automation? [+ Benefits & How to Start]",
+        "url": "https://www.atlassian.com/agile/project-management/workflow-automation",
+        "snippet": "Workflow automation is the approach to automating various business processes, tasks, and workflows with minimal human intervention. Workflow automation leverages software to create a …"
+      },
+      {
+        "title": "What is Workflow Automation? | Definition - Benefits - Examples - Zoho",
+        "url": "https://www.zoho.com/flow/what-is-workflow-automation.html",
+        "snippet": "Workflow automation is the process of automating repetitive tasks within an organization. It is done by identifying the tasks that form workflows, integrating the software applications with which …"
+      }
+    ]
+  }
+]
+
+=== QUESTIONS @ 2025-08-26T16:07:05.802605 ===
+[
+  "```json",
+  "[",
+  "\"How can AI agents be designed to effectively handle unexpected situations or errors during workflow automation?\",",
+  "\"What are the key differences between collaborative AI and agentic AI, and how do these differences impact their suitability for different tasks?\",",
+  "\"In what specific ways can independent systems contribute to or detract from the overall efficiency of workflow automation processes?\",",
+  "\"What ethical considerations should be prioritized when developing and deploying AI agents for workflow automation, particularly concerning job displacement?\",",
+  "\"How does the complexity of a task influence the choice between using a simple automated workflow versus a more sophisticated agentic AI system?\",",
+  "\"What are the potential security vulnerabilities introduced by integrating AI agents into existing workflow automation systems, and how can these be mitigated?\",",
+  "\"How can the performance and reliability of AI agents in workflow automation be effectively monitored and evaluated over time?\",",
+  "\"What are some strategies for fostering effective collaboration between humans and AI agents in workflow automation scenarios?\",",
+  "\"How do different programming languages and frameworks impact the development and deployment of AI agents for specific workflow automation tasks?\",",
+  "\"What innovative approaches are being explored to enhance the adaptability and learning capabilities of AI agents in dynamic workflow environments?\","
+]
+
+=== SUMMARY @ 2025-08-26T16:07:32.154907 ===
+Sure, here's a summary of the video:
+
+**Topic:** Artificial intelligence concepts: AI Agents vs. Agentic AI.
+
+**Overview:**
+The presenter defines and differentiates "AI Agents" from "Agentic AI." The presenter says that an AI agent is an independent system or tool that can handle one specific job autonomously, based on a predefined set of rules and goals. Agentic AI is not just one agent, but a design approach, where multiple AI agents collaborate together as a team to handle an entire workflow.
+
+**Key Points:**
+- An AI Agent is an independent system or tool.
+- It is designed to handle one specific job autonomously.
+- It has a predefined set of rules and goals.
+- Agentic AI is not just one agent.
+- Agentic AI is a design approach that handles the entire workflow.
+- In Agentic AI, multiple AI agents collaborate together like a team.
+
+=== TOPICS @ 2025-08-26T16:07:36.529417 ===
+[
+  "```json",
+  "{",
+  "}",
+  "```"
+]
+
+=== SEARCH_RESULTS @ 2025-08-26T16:07:43.246283 ===
+[
+  {
+    "topic": "```json",
+    "results": [
+      {
+        "title": "JSON Editor Online: edit JSON, format JSON, query JSON",
+        "url": "https://jsoneditoronline.org/",
+        "snippet": "JSON Editor Online is the original and most copied JSON Editor on the web. Use it to view, edit, format, repair, compare, query, transform, validate, and share your JSON data."
+      },
+      {
+        "title": "JSON Tutorial",
+        "url": "https://www.tutorialspoint.com/json/index.htm",
+        "snippet": "JSON or JavaScript Object Notation is a lightweight text-based open standard designed for human-readable data interchange. The JSON format was originally specified by Douglas …"
+      },
+      {
+        "title": "JSON Examples and Implementation Explained - w3resource",
+        "url": "https://www.w3resource.com/JSON/snippets/json-example-guide.php",
+        "snippet": "Jan 6, 2025 · JSON (JavaScript Object Notation) is a lightweight data-interchange format used extensively for transferring data between a server and a web application. It is easy to read and …"
+      },
+      {
+        "title": "JSON Tutorial - Learn JSON - W3Schools",
+        "url": "https://www.w3schools.in/json",
+        "snippet": "JSON stands for JavaScript Object Notation, and it's designed to store and transport data. JSON is designed to store and organize data similar to XML, but JSON is smaller, faster, and easier …"
+      },
+      {
+        "title": "JSON 是什么，在数据交换中有什么用？ - 知乎",
+        "url": "https://www.zhihu.com/question/20836506",
+        "snippet": "什么是JSON JSON： JavaScript Object Notation 【JavaScript 对象表示法】 JSON 是存储和交换文本信息的语法。类似 XML。 JSON采用完全独立于任何程序语言的文本格式，使JSON成为 …"
+      }
+    ]
+  },
+  {
+    "topic": "{",
+    "results": [
+      {
+        "title": "What is a Curly Bracket? - Computer Hope",
+        "url": "https://www.computerhope.com/jargon/c/curlybra.htm",
+        "snippet": null
+      },
+      {
+        "title": "Bracket - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bracket",
+        "snippet": "Jun 24, 2002 · Various forms of brackets are used in mathematics, with specific mathematical meanings, often for denoting specific mathematical functions and subformulas. Angle brackets …"
+      },
+      {
+        "title": "Braces | The Punctuation Guide",
+        "url": "https://www.thepunctuationguide.com/braces.html",
+        "snippet": "Braces { }, also known as curly brackets, are used in various programing languages, certain mathematical expressions, and some musical notation. They should never be used in place of …"
+      },
+      {
+        "title": "CURLY BRACKET | English meaning - Cambridge Dictionary",
+        "url": "https://dictionary.cambridge.org/dictionary/english/curly-bracket",
+        "snippet": "A curly bracket is a symbol { or } that is used to group or separate information in some way. Learn how to use curly brackets in math, programming, and other contexts with examples and …"
+      },
+      {
+        "title": "curly bracket - Wiktionary, the free dictionary",
+        "url": "https://en.wiktionary.org/wiki/curly_bracket",
+        "snippet": "Jun 11, 2025 · Learn the definition, pronunciation, synonyms and usage of curly bracket, a symbol used in math, music, programming and chemistry. Find out the difference between curly …"
+      }
+    ]
+  },
+  {
+    "topic": "}",
+    "results": [
+      {
+        "title": "What is a Curly Bracket? - Computer Hope",
+        "url": "https://www.computerhope.com/jargon/c/curlybra.htm",
+        "snippet": null
+      },
+      {
+        "title": "Braces | The Punctuation Guide",
+        "url": "https://www.thepunctuationguide.com/braces.html",
+        "snippet": "Braces { }, also known as curly brackets, are used in various programing languages, certain mathematical expressions, and some musical notation. They should never be used in place of …"
+      },
+      {
+        "title": "CURLY BRACKET | English meaning - Cambridge Dictionary",
+        "url": "https://dictionary.cambridge.org/dictionary/english/curly-bracket",
+        "snippet": "A curly bracket is a symbol { or } that is used to group or separate information. Learn how to use it in math, programming, and other contexts with examples and synonyms."
+      },
+      {
+        "title": "curly bracket - Wiktionary, the free dictionary",
+        "url": "https://en.wiktionary.org/wiki/curly_bracket",
+        "snippet": "Jun 11, 2025 · Noun [edit] curly bracket (plural curly brackets) Either { or }, having various uses in math, music, computer programming and chemistry."
+      },
+      {
+        "title": "Curly Braces { } - English Professor",
+        "url": "https://english.prof/punctuation-guide/curly-braces/",
+        "snippet": "In many programming languages, curly braces are used to group code together. They define blocks of code that should be executed as a single unit, like functions, loops, or conditional …"
+      }
+    ]
+  },
+  {
+    "topic": "```",
+    "results": []
+  }
+]
+
+=== QUESTIONS @ 2025-08-26T16:07:49.772823 ===
+[
+  "```json",
+  "[",
+  "\"How does JSON's lightweight nature compared to XML impact data transmission speeds in practical applications?\",",
+  "\"In what specific scenarios would XML be preferred over JSON, given JSON's advantages in speed and size?\",",
+  "\"Beyond data storage and transport, what are some emerging applications of JSON in modern software development?\",",
+  "\"Considering the use of curly brackets in various fields (math, music, programming, chemistry), what are some common misconceptions about their purpose?\",",
+  "\"How do different programming languages utilize curly braces to define code blocks, and what are the key distinctions?\",",
+  "\"What are some common errors or pitfalls developers face when working with JSON data structures and curly brackets in code?\",",
+  "\"How have the uses of curly brackets in programming evolved since the inception of languages like C?\",",
+  "\"Are there security vulnerabilities that arise from the use of JSON or curly braces, and how can developers mitigate these risks?\",",
+  "\"In what ways can developers ensure JSON documents are valid and well-formed, and what tools are available for this purpose?\",",
+  "\"How can one efficiently handle nested JSON structures using curly brackets and other JSON syntax?\","
+]
+
+=== SUMMARY @ 2025-08-26T16:19:23.413629 ===
+Sure, here is the summary of the video in markdown format.
+
+### AI Agents
+- An AI agent is an independent system or tool.
+- AI agents can handle only one specific job autonomously.
+- They have predefined rules and goals.
+- An example of an AI agent is an AI agent which helps me write my resume by just inputting my skill set.
+
+### Agentic AI
+- Is not just one agent, it is a design approach which handles the entire workflow.
+- When multiple AI agents collaborate together like a team we have got our agentic AI.
+- They debate, refine, and iterate on tasks.
+- An example of an agentic AI is a team working together to get you hired.
+- One agent will have is a research agent, which will give you the market analysis. The next agent will help you write the custom resumes based on the job descriptions, and the third agent will help you prepare for interviews.
+
+### Bottom Line
+- AI agent says let me handle it by myself and agentic AI says "hey team, assemble and let's collaborate and give and solve this complex problem"
+
+=== TOPICS @ 2025-08-26T16:19:26.441911 ===
+[
+  "*   AI Agents",
+  "*   Agentic AI",
+  "*   AI Agent vs Agentic AI"
+]
+
+=== SEARCH_RESULTS @ 2025-08-26T16:19:34.151727 ===
+[
+  {
+    "topic": "*   AI Agents",
+    "results": [
+      {
+        "title": "Agents in AI - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/artificial-intelligence/agents-artificial-intelligence/",
+        "snippet": "Aug 14, 2025 · An artificial intelligence (AI) agent is a software program that can interact with its environment, collect data and use that data to perform self-directed tasks that meet …"
+      },
+      {
+        "title": "What are AI agents? Definition, examples, and types | Google Cloud",
+        "url": "https://cloud.google.com/discover/what-are-ai-agents",
+        "snippet": "AI agents are software systems that use AI to pursue goals and complete tasks on behalf of users. They show reasoning, planning, and memory and have a level of autonomy to make decisions, …"
+      },
+      {
+        "title": "What are AI agents? - IBM",
+        "url": "https://www.ibm.com/think/topics/ai-agents",
+        "snippet": "An artificial intelligence (AI) agent refers to a system or program that is capable of autonomously performing tasks on behalf of a user or another system."
+      },
+      {
+        "title": "What are AI Agents?- Agents in Artificial Intelligence Explained",
+        "url": "https://aws.amazon.com/what-is/ai-agents/",
+        "snippet": "AI agents are driven by objectives. Their actions aim to maximize success as defined by a utility function or performance metric. Unlike traditional programs that merely complete tasks, …"
+      },
+      {
+        "title": "7 Types of AI Agents with Examples and Use Cases - ProjectPro",
+        "url": "https://www.projectpro.io/article/types-of-ai-agents/1066",
+        "snippet": "Nov 14, 2024 · Explore the different types of AI agents and learn how each serves specific tasks, from simple automation to complex decision-making, along with their diverse benefits across …"
+      }
+    ]
+  },
+  {
+    "topic": "*   Agentic AI",
+    "results": [
+      {
+        "title": "What is Agentic AI - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/artificial-intelligence/what-is-agentic-ai/",
+        "snippet": "Aug 14, 2025 · Agentic AI is a type of AI designed to excel in one specific area rather than trying to know a bit about everything. Unlike General AI, which has knowledge across many domains but …"
+      },
+      {
+        "title": "What is agentic AI? - IBM",
+        "url": "https://www.ibm.com/think/topics/agentic-ai",
+        "snippet": "Agentic AI is an artificial intelligence system that can accomplish a specific goal with limited supervision. It consists of AI agents—machine learning models that mimic human decision …"
+      },
+      {
+        "title": "What Is Agentic AI? - NVIDIA Blog",
+        "url": "https://blogs.nvidia.com/blog/what-is-agentic-ai/",
+        "snippet": "Oct 22, 2024 · Agentic AI connects to enterprise data and uses sophisticated reasoning and iterative planning to autonomously solve complex, multi-step problems."
+      },
+      {
+        "title": "Agentic AI - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Agentic_AI",
+        "snippet": " Agentic AI is a class of artificial intelligence that focuses on autonomous systems that can make decisions and perform tasks without human intervention. The independent systems automatically respond to conditions, to produce process results. The field is closely linked to agentic automation, also known as agent-based process management systems, when applied to process automation. Applications include software development, customer support, cybersecurity and business intelligence"
+      },
+      {
+        "title": "Agentic",
+        "url": "https://www.agentic.ai/",
+        "snippet": "agentic.aihome careers ux engineer software engineer ai engineer sign up"
+      }
+    ]
+  },
+  {
+    "topic": "*   AI Agent vs Agentic AI",
+    "results": [
+      {
+        "title": "[2505.10468] AI Agents vs. Agentic AI: A Conceptual Taxonomy ...",
+        "url": "https://arxiv.org/abs/2505.10468",
+        "snippet": "May 15, 2025 · This study critically distinguishes between AI Agents and Agentic AI, offering a structured conceptual taxonomy, application mapping, and challenge analysis to clarify their …"
+      },
+      {
+        "title": "AI Agents vs Agentic AI - Analytics Vidhya",
+        "url": "https://www.analyticsvidhya.com/blog/2025/05/ai-agents-vs-agentic-ai/",
+        "snippet": "Jul 25, 2025 · AI Agents are good for handling specific tasks. They follow rules, use tools, and apply reasoning to get things done. On the other hand, Agentic AI has multiple agents working together …"
+      },
+      {
+        "title": "AI Agent vs. Agentic AI: What’s the Difference? | AI21",
+        "url": "https://www.ai21.com/knowledge/ai-agent-vs-agentic-ai/",
+        "snippet": "Jul 24, 2025 · While both AI agents and agentic AI perform tasks on behalf of users, the difference lies in their level of autonomy, adaptability, and operational intelligence. Here are some of the key …"
+      },
+      {
+        "title": "Agentic AI vs. AI Agents - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/artificial-intelligence/agentic-ai-vs-ai-agents/",
+        "snippet": "Jul 23, 2025 · Agentic AI is a more advanced and independent type of artificial intelligence. It can work on its own, handling complex tasks with very little help from humans. It adapts to changes …"
+      },
+      {
+        "title": "AI Agent vs. Agentic AI: Definitions, Comparison, and 5 Key",
+        "url": "https://medium.com/@devangvashistha/ai-agent-vs-agentic-ai-definitions-comparison-and-5-key-differences-3aa6adb76187",
+        "snippet": "It’s important to know the difference between AI agents and agentic AI. They both automate tasks but in different ways. AI agents focus on specific tasks like data work or helping..."
+      }
+    ]
+  }
+]
+
+=== QUESTIONS @ 2025-08-26T16:19:40.176595 ===
+[
+  "```json",
+  "[",
+  "\"How does the 'utility function' in AI agents quantitatively define and measure 'success,' and what are some examples of these metrics in different applications?\",",
+  "\"What are the practical limitations of current AI agents in handling unforeseen circumstances or adapting to dynamically changing environments?\",",
+  "\"In what specific ways does 'agentic automation' enhance or transform existing business process management systems?\",",
+  "\"Considering the application of agentic AI in software development, how does it impact the roles and responsibilities of human software engineers?\",",
+  "\"What are the potential ethical implications of deploying autonomous agentic AI systems in sensitive areas like cybersecurity or customer support?\",",
+  "\"Can you provide a detailed comparison of the architectural differences between a typical AI agent and an agentic AI system?\",",
+  "\"How does the level of human oversight and intervention differ between AI agents and agentic AI in real-world implementations?\",",
+  "\"What are the key performance indicators (KPIs) used to evaluate the effectiveness and efficiency of agentic AI systems?\",",
+  "\"How do different types of AI agents adapt their strategies based on real-time feedback and changing objectives?\",",
+  "\"In what ways can agentic AI contribute to proactive threat detection and response in cybersecurity, beyond traditional rule-based systems?\","
+]
+
+=== SUMMARY @ 2025-08-26T16:20:09.367141 ===
+Okay, here is a summary of the video:
+
+# Summary of AI Agents vs Agentic AI: 
+
+Here is a summary of the difference between an AI Agent and an Agentic AI. 
+
+## AI Agent
+- An AI agent is an independent system or tool.
+- It is programmed with a pre-defined set of rules and goals.
+- It handles only one specific job autonomically.
+- For example, it could write your resume. 
+
+## Agentic AI
+
+- Agentic AI is not just one agent.
+- Multiple AI agents will collaborate like a team, debating and refining each other to give a collective output.
+- As an example, multiple AI agents can work together to get a person hired.
+- One agent analyzes the market and researches, a second agent writes custom resumes, and a third agent helps you prepare for interviews.
+- Bottom line, Agentic AI is a design approach for handling an entire workflow.
+
+=== TOPICS @ 2025-08-26T16:20:13.481925 ===
+[
+  "*   AI Agent",
+  "*   Agentic AI",
+  "*   Collaboration of AI Agents",
+  "*   Workflow Automation",
+  "*   Pre-defined rules and goals"
+]
+
+=== SEARCH_RESULTS @ 2025-08-26T16:20:23.101722 ===
+[
+  {
+    "topic": "*   AI Agent",
+    "results": [
+      {
+        "title": "Agents in AI - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/artificial-intelligence/agents-artificial-intelligence/",
+        "snippet": "Aug 14, 2025 · An artificial intelligence (AI) agent is a software program that can interact with its environment, collect data and use that data to perform self-directed tasks that meet …"
+      },
+      {
+        "title": "What are AI agents? Definition, examples, and types | Google Cloud",
+        "url": "https://cloud.google.com/discover/what-are-ai-agents",
+        "snippet": "AI agents are software systems that use AI to pursue goals and complete tasks on behalf of users. They show reasoning, planning, and memory and have a level of autonomy to make decisions, …"
+      },
+      {
+        "title": "What is an AI Agent? Types, Frameworks, and Components",
+        "url": "https://intellipaat.com/blog/ai-agent/",
+        "snippet": "Aug 13, 2025 · What is an AI Agent? An AI agent is an autonomous system that can perceive its environment, make decisions, and take actions to achieve a specific goal. Unlike regular AI that …"
+      },
+      {
+        "title": "13 Types of AI Agents Explained (+ Examples & Use Cases)",
+        "url": "https://www.lindy.ai/blog/types-ai-agents",
+        "snippet": "Jun 16, 2025 · You’ll find different types of AI agents built for different tasks. For example, conversational agents reply to texts and chats, planning agents can book meetings, and …"
+      },
+      {
+        "title": "AI Agents: What They Are & How They Work (2025 Guide)",
+        "url": "https://www.nocodefinder.com/blog-posts/what-are-ai-agents",
+        "snippet": "Aug 19, 2025 · Discover what AI agents are, how they function, and real-world examples. Learn the difference between AI agents and chatbots in this comprehensive 2025 guide."
+      }
+    ]
+  },
+  {
+    "topic": "*   Agentic AI",
+    "results": [
+      {
+        "title": "What is Agentic AI - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/artificial-intelligence/what-is-agentic-ai/",
+        "snippet": "Aug 14, 2025 · Agentic AI is a type of AI designed to excel in one specific area rather than trying to know a bit about everything. Unlike General AI, which has knowledge across many domains but …"
+      },
+      {
+        "title": "What is agentic AI? - IBM",
+        "url": "https://www.ibm.com/think/topics/agentic-ai",
+        "snippet": "Agentic AI is an artificial intelligence system that can accomplish a specific goal with limited supervision. It consists of AI agents—machine learning models that mimic human decision …"
+      },
+      {
+        "title": "Agentic",
+        "url": "https://www.agentic.ai/",
+        "snippet": "agentic.aihome careers ux engineer software engineer ai engineer sign up"
+      },
+      {
+        "title": "privacy | Agentic",
+        "url": "https://www.agentic.ai/privacy",
+        "snippet": "Copyright © 2022 by Agentic.AI Corporation. All rights reserved. Copyright © 2023 by Agentic.AI Corporation. All rights reserved.  home careers ux …"
+      },
+      {
+        "title": "Agentic",
+        "url": "https://www.agentic.ai/careers/research-scientist-inactive",
+        "snippet": "Agentic ... Agentic"
+      }
+    ]
+  },
+  {
+    "topic": "*   Collaboration of AI Agents",
+    "results": [
+      {
+        "title": "Collaborative AI agents for learning - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/artificial-intelligence/collaborative-ai-agents-for-learning/",
+        "snippet": "Jul 31, 2025 · Collaborative agents mimic a team of specialists, combining natural language processing (NLP), data mining, reasoning and adaptive learning to tackle different aspects of a …"
+      },
+      {
+        "title": "What is multi-agent collaboration? - IBM",
+        "url": "https://www.ibm.com/think/topics/multi-agent-collaboration",
+        "snippet": "Dec 5, 2024 · Cooperation among multiple agents is an important requirement when designing and deploying an intelligent system, especially in environments that are highly complex, distributed …"
+      },
+      {
+        "title": "Multi-Agent Collaboration: How AI Agents Work Together",
+        "url": "https://simplified.com/blog/automation/multi-ai-agent-collaboration",
+        "snippet": "Aug 4, 2025 · Multi-agent collaboration is when several independent AI agents operate within the same environment, exchanging data, dividing tasks, and making joint decisions. These agents …"
+      },
+      {
+        "title": "The Multi-Agent AI Revolution: Collaboration & Innovation",
+        "url": "https://www.nitorinfotech.com/blog/multi-agent-collaboration-how-ai-agents-work-together/",
+        "snippet": "1 day ago · The future of artificial intelligence agencies and multi-agent collaboration lies in AI agents working together, reshaping not just software development workflows but entire …"
+      },
+      {
+        "title": "Mechanisms For Collaboration In Ai Agentic Multi-Agent …",
+        "url": "https://ijcrt.org/papers/IJCRT25A5337.pdf",
+        "snippet": "Abstract: Multi-agent systems (MAS) powered by agentic AI represent a leap forward in solving complex, real-world problems through collaborative intelligence. Unlike single-agent systems, …"
+      }
+    ]
+  },
+  {
+    "topic": "*   Workflow Automation",
+    "results": [
+      {
+        "title": "Workflow automation: Definition, tutorial, and tools - Zapier",
+        "url": "https://zapier.com/blog/workflow-automation/?msockid=00212628a6816aca25c9307ca7d96b51",
+        "snippet": null
+      },
+      {
+        "title": "What is Workflow Automation? [+ Benefits & How to Start] | Atlassian",
+        "url": "https://www.atlassian.com/agile/project-management/workflow-automation",
+        "snippet": "Workflow automation is the approach to automating various business processes, tasks, and workflows with minimal human intervention. Workflow automation leverages software to create a …"
+      },
+      {
+        "title": "What are workflow automation tools? - microsoft.com",
+        "url": "https://www.microsoft.com/en-in/power-platform/products/power-automate/topics/workflow-automation/workflow-automation-software-and-tools?msockid=00212628a6816aca25c9307ca7d96b51",
+        "snippet": "Workflow automation software streamlines traditionally manual and tedious tasks to help businesses save time, reduce the risk of human error, and boost workplace productivity."
+      },
+      {
+        "title": "What is Workflow Automation and Why is it Important?",
+        "url": "https://www.techtarget.com/searchcontentmanagement/definition/workflow-automation",
+        "snippet": "Sep 27, 2023 · Workflow automation is an approach to making the flow of tasks, documents and information across work-related activities perform independently in accordance with defined …"
+      },
+      {
+        "title": "What is Workflow Automation? | Definition - Benefits - Examples - Zoho",
+        "url": "https://www.zoho.com/flow/what-is-workflow-automation.html",
+        "snippet": "Workflow automation is the process of automating repetitive tasks within an organization. It is done by identifying the tasks that form workflows, integrating the software applications with which …"
+      }
+    ]
+  },
+  {
+    "topic": "*   Pre-defined rules and goals",
+    "results": [
+      {
+        "title": "Goal-based AI Agents - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/artificial-intelligence/goal-based-ai-agents/",
+        "snippet": "Jul 29, 2024 · These agents are designed to plan, execute, and adjust their actions dynamically to meet predefined goals. This approach is particularly useful in complex environments where …"
+      },
+      {
+        "title": "Goal-Driven ECA Rules: A Comprehensive Analysis and Implications",
+        "url": "https://www.ijeijournal.com/papers/Vol12-Issue10/1210227234.pdf",
+        "snippet": "The core of the paper lies in a comprehensive examination of goal-driven ECA rules, offering a conceptual framework that redefines event handling, condition evaluation, and action execution …"
+      },
+      {
+        "title": "Predefined Rule - an overview | ScienceDirect Topics",
+        "url": "https://www.sciencedirect.com/topics/computer-science/predefined-rule",
+        "snippet": "A 'Predefined Rule' refers to a control-based method that encodes human experience and knowledge into If-Then rules to guide actions in different situations, typically based on local …"
+      },
+      {
+        "title": "What are predefined rules? - Explanation & Examples | Secoda",
+        "url": "https://www.secoda.co/glossary/what-are-predefined-rules",
+        "snippet": "Sep 16, 2024 · What are predefined rules in rule-based systems? Predefined rules, or logical statements, are used by rule-based systems to process and interpret information. These systems …"
+      },
+      {
+        "title": "Predefined Rules - Informatica",
+        "url": "https://docs.informatica.com/data-quality-and-governance/data-quality/10-5/data-discovery-guide/part-2--data-discovery-with-informatica-analyst/rules-in-informatica-analyst/predefined-rules.html",
+        "snippet": "You can use predefined rules with multiple profiles. In the Model repository, a predefined rule is a mapplet with an input group, an output group, and transformations that define the rule logic."
+      }
+    ]
+  }
+]
+
+=== QUESTIONS @ 2025-08-26T16:20:30.121359 ===
+[
+  "```json",
+  "[",
+  "\"How do the different types of AI agents (conversational, planning, etc.) leverage pre-defined rules and goals in their operation?\",",
+  "\"What are the key distinctions between AI agents and chatbots, particularly in the context of workflow automation?\",",
+  "\"In what ways does collaboration between AI agents enhance or complicate the enforcement of pre-defined rules and achievement of goals?\",",
+  "\"How does the integration of AI agents into workflow automation impact the need for and complexity of pre-defined rules?\",",
+  "\"What mechanisms facilitate effective collaboration among AI agents in multi-agent systems, and how do these mechanisms ensure adherence to pre-defined rules?\",",
+  "\"What are the potential limitations or drawbacks of relying heavily on pre-defined rules and goals in the development and deployment of AI agents?\",",
+  "\"How can organizations effectively balance the flexibility and adaptability of AI agents with the need for structured workflows and pre-defined parameters?\",",
+  "\"What are some emerging applications of collaborative AI agents in areas beyond software development, and how are pre-defined rules adapted in these contexts?\",",
+  "\"How does the use of predefined rules in AI agent systems compare to other approaches, such as machine learning, in terms of adaptability and maintainability?\",",
+  "\"In the context of agentic AI, how are concerns about privacy being addressed, and what role do pre-defined rules play in ensuring data security?\","
+]
+
+=== SUMMARY @ 2025-09-23T23:16:28.908902 ===
+Sure, here is a summary of the video:
+
+**Topic:**
+The difference between AI agents and Agentic AI.
+
+**Key Points:**
+- People often mix up AI agents and Agentic AI.
+- By the end of the video, you'll understand the difference once and for all.
+
+**AI Agents:**
+- An independent system or tool that can handle only one specific job autonomously.
+- Has a predefined set of rules and goals.
+- Example: An AI agent that helps you write a resume by just inputting your skill set.
+
+**Agentic AI:**
+- Not just one agent.
+- A design approach that handles the entire workflow.
+- Multiple AI agents collaborate together like a team.
+- They debate, refine, and iterate on the tasks.
+- Example: A team working together to get you hired.
+  -  One agent (a research agent) gives you the market analysis.
+  - The next agent helps you write the custom resumes based on the job descriptions.
+  - The third agent helps you prepare for interviews.
+- This is how you'll get the collective output to help you land your jobs.
+
+**The Bottom Line:**
+- AI agent says, "Let me handle it by myself."
+- Agentic AI says, "Hey team, assemble and let's collaborate and give and solve this complex problem."
+
+=== TOPICS @ 2025-09-23T23:16:33.221668 ===
+[
+  "*   AI Agents vs. Agentic AI",
+  "*   Definition of AI Agents",
+  "*   Definition of Agentic AI",
+  "*   Collaboration in Agentic AI",
+  "*   Examples of AI Agents and Agentic AI"
+]
+
+=== SEARCH_RESULTS @ 2025-09-23T23:16:44.878431 ===
+[
+  {
+    "topic": "*   AI Agents vs. Agentic AI",
+    "results": []
+  },
+  {
+    "topic": "*   Definition of AI Agents",
+    "results": []
+  },
+  {
+    "topic": "*   Definition of Agentic AI",
+    "results": []
+  },
+  {
+    "topic": "*   Collaboration in Agentic AI",
+    "results": []
+  },
+  {
+    "topic": "*   Examples of AI Agents and Agentic AI",
+    "results": []
+  }
+]
+
+=== QUESTIONS @ 2025-09-23T23:16:51.528148 ===
+[
+  "```json",
+  "[",
+  "\"In what fundamental ways does the architectural design of Agentic AI differ from that of traditional AI Agents to facilitate more complex collaborative behaviors?\",",
+  "\"How can the level of autonomy in AI Agents be quantified or qualified, and what are the ethical considerations for varying degrees of agentic behavior?\",",
+  "\"What specific communication protocols or frameworks are being developed to enable seamless collaboration between multiple Agentic AI entities?\",",
+  "\"Beyond task completion, what metrics can be used to evaluate the 'quality' of collaboration between Agentic AI systems, such as adaptability or innovation?\",",
+  "\"Can you provide specific examples of real-world applications where the collaborative capabilities of Agentic AI offer a significant advantage over single AI Agents or traditional AI systems?\",",
+  "\"What are the potential security vulnerabilities introduced by Agentic AI, particularly in collaborative scenarios, and what mitigation strategies are being explored?\",",
+  "\"How do current Agentic AI systems address the challenge of conflicting goals or priorities when multiple agents are collaborating on a shared objective?\",",
+  "\"What are the limitations of current Agentic AI frameworks in terms of scalability, and what research is being conducted to address these limitations?\",",
+  "\"How are the roles and responsibilities of humans evolving in the context of Agentic AI, and what training or adaptation will be required?\",",
+  "\"What are the key open research questions surrounding the development and deployment of robust and reliable Agentic AI systems?\","
+]
+
+=== SUMMARY @ 2025-09-23T23:17:33.492080 ===
+Sure, here is a summary of the video:
+
+**Overview**
+The video explains the differences between an AI agent and agentic AI, as well as the differences in terms of their functions.
+
+**Key Points**
+- The presenter defines AI agent as an independent system or tool that can handle only one specific job autonomously and it has a predefined set of rules and goals. 
+- Examples of an AI agent include an AI chatbot or an AI agent which can help to write a resume.
+- On the other hand, agentic AI is not just one agent. It is a design approach which handles the entire workflow.
+- Agentic AI is considered as a team working together to get you hired, using research agents, custom resume creation, and interview preparation. 
+- Bottom line, AI agents prefer to work alone. On the other hand, agentic AI prefers to collaborate as a team.
+
+=== TOPICS @ 2025-09-23T23:17:37.770949 ===
+[
+  "*   AI Agent Definition",
+  "*   AI Agent Examples",
+  "*   Agentic AI Definition",
+  "*   Agentic AI as a Team",
+  "*   AI Agent vs Agentic AI Collaboration"
+]
+
+=== SEARCH_RESULTS @ 2025-09-23T23:17:43.101979 ===
+[
+  {
+    "topic": "*   AI Agent Definition",
+    "results": []
+  },
+  {
+    "topic": "*   AI Agent Examples",
+    "results": []
+  },
+  {
+    "topic": "*   Agentic AI Definition",
+    "results": []
+  },
+  {
+    "topic": "*   Agentic AI as a Team",
+    "results": []
+  },
+  {
+    "topic": "*   AI Agent vs Agentic AI Collaboration",
+    "results": []
+  }
+]
+
+=== QUESTIONS @ 2025-09-23T23:17:51.060215 ===
+[
+  "```json",
+  "[",
+  "\"How does the performance of an agentic AI team compare to that of a single, highly capable AI agent in complex problem-solving scenarios?\",",
+  "\"In what ways can the collaborative dynamics between AI agents and agentic AI systems be optimized to leverage the strengths of both approaches?\",",
+  "\"What are the key architectural differences that distinguish a single AI agent from an agentic AI system composed of multiple agents?\",",
+  "\"What mechanisms can be implemented to ensure effective communication and coordination within an agentic AI team, especially when dealing with conflicting goals or information?\",",
+  "\"How can agentic AI systems be designed to effectively handle uncertainty and adapt to changing environments, considering the potential for emergent behavior?\",",
+  "\"What are the ethical implications of deploying autonomous agentic AI teams, and how can these systems be aligned with human values and societal norms?\",",
+  "\"How might the development of agentic AI impact the future of work, particularly in fields that require collaboration and complex decision-making?\",",
+  "\"What are the potential security vulnerabilities associated with agentic AI systems, and what measures can be taken to mitigate these risks?\",",
+  "\"How can we measure the 'agency' of an AI system, and what metrics are most relevant for evaluating the performance of agentic AI teams?\",",
+  "\"What are some real-world applications where agentic AI is likely to provide a significant advantage over traditional AI systems or single AI agents?\","
+]
